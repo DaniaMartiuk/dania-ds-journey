@@ -1,0 +1,10 @@
+member_id,belt,minutes,rolls
+1,blue,90,5
+2,white,60,3
+3,blue,90,6
+4,purple,120,8
+5,red,180,12
+6,white,60,3
+7,purple,NaN,5
+8,black,200,4
+9,blue,300,NaN
